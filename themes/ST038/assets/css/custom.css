@@ -1074,7 +1074,7 @@ h1.h6.active-filter-title {
     height: 36px;
     display: block;
     overflow: hidden;
-    float: left;
+    //float: left;
     opacity: 1 !important;
     -moz-opacity: 1 !important;
     filter: alpha(opacity=1);

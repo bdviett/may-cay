@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-02-18 09:43:46
+/* Smarty version 3.1.33, created on 2020-02-20 11:08:01
   from 'C:\workspace-git\may-cay\admin_sc\themes\new-theme\template\layout.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e4b4f62ed5b85_07366664',
+  'unifunc' => 'content_5e4e0621188948_86278253',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -33,7 +33,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:error.tpl' => 1,
   ),
 ),false)) {
-function content_5e4b4f62ed5b85_07366664 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e4e0621188948_86278253 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html lang="<?php echo $_smarty_tpl->tpl_vars['iso']->value;?>
 ">
